@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L101 - If", "L101 - If\L101
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L102 - Types and Conversions", "L102 - Types and Conversions\L102 - Types and Conversions.csproj", "{7DFE1F6C-047F-483C-AD3B-DBEAF6F2DD8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L104 - Switch", "L104 - Switch\L104 - Switch.csproj", "{3AFC203E-5826-40AF-BB90-25FA986788EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7DFE1F6C-047F-483C-AD3B-DBEAF6F2DD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DFE1F6C-047F-483C-AD3B-DBEAF6F2DD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DFE1F6C-047F-483C-AD3B-DBEAF6F2DD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFC203E-5826-40AF-BB90-25FA986788EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFC203E-5826-40AF-BB90-25FA986788EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFC203E-5826-40AF-BB90-25FA986788EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFC203E-5826-40AF-BB90-25FA986788EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
