@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L108 - Nested for loops", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L110 - Built-in functions", "L110 - Built-in functions\L110 - Built-in functions.csproj", "{B7737F3A-F2D3-40C3-9CE3-C9077D8DB90A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L116 - Arrays", "L116 - Arrays\L116 - Arrays.csproj", "{9B658AD4-9EF1-427E-A8ED-0D160367C127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B7737F3A-F2D3-40C3-9CE3-C9077D8DB90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7737F3A-F2D3-40C3-9CE3-C9077D8DB90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7737F3A-F2D3-40C3-9CE3-C9077D8DB90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B658AD4-9EF1-427E-A8ED-0D160367C127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B658AD4-9EF1-427E-A8ED-0D160367C127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B658AD4-9EF1-427E-A8ED-0D160367C127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B658AD4-9EF1-427E-A8ED-0D160367C127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

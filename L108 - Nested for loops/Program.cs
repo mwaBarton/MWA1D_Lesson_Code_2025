@@ -16,7 +16,7 @@ namespace L108___Nested_for_loops
                 {
                     for (int j = 0; j < 40; j++)
                     {
-                        if (i == playerI && j == playerJ)
+                        if (i == playerI && j > playerJ)
                         {
                             Console.BackgroundColor = ConsoleColor.Red;
                             Console.Write("O");
