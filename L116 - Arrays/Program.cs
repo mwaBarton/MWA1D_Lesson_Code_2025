@@ -4,6 +4,12 @@ namespace L116___Arrays
 {
     internal class Program
     {
+        static void StupidestSubroutine(int i)
+        {
+            Console.WriteLine(i);
+            StupidestSubroutine(i+1);
+        }
+
         static void PrintIntArray(int[] array)
         {
             foreach (int item in array)
@@ -14,6 +20,8 @@ namespace L116___Arrays
 
         static void Main(string[] args)
         {
+            StupidestSubroutine(1);
+
             int[] dougnutBoxSizes = new int[5];
 
             // The boring way
