@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L116 - Arrays", "L116 - Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L117 - Lists", "L117 - Lists\L117 - Lists.csproj", "{5512B775-4DA7-4221-BBE3-F2E24D1E9941}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L120 - Lists 2", "L120 - Lists 2\L120 - Lists 2.csproj", "{2B7BF1F4-3A67-494F-86BA-5D3B22407058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5512B775-4DA7-4221-BBE3-F2E24D1E9941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5512B775-4DA7-4221-BBE3-F2E24D1E9941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5512B775-4DA7-4221-BBE3-F2E24D1E9941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7BF1F4-3A67-494F-86BA-5D3B22407058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7BF1F4-3A67-494F-86BA-5D3B22407058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7BF1F4-3A67-494F-86BA-5D3B22407058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7BF1F4-3A67-494F-86BA-5D3B22407058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
