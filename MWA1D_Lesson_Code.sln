@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L120 - Lists 2", "L120 - Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L121 - Parallel Arrays", "L121 - Parallel Arrays\L121 - Parallel Arrays.csproj", "{0778445F-F782-4D5C-BC4B-F2CD2ED8FDC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L122 - Structures", "L122 - Structures\L122 - Structures.csproj", "{119B741E-E488-4F48-98BC-5241FB8954ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0778445F-F782-4D5C-BC4B-F2CD2ED8FDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0778445F-F782-4D5C-BC4B-F2CD2ED8FDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0778445F-F782-4D5C-BC4B-F2CD2ED8FDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119B741E-E488-4F48-98BC-5241FB8954ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119B741E-E488-4F48-98BC-5241FB8954ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119B741E-E488-4F48-98BC-5241FB8954ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119B741E-E488-4F48-98BC-5241FB8954ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
