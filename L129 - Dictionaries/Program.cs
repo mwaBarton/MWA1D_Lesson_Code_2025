@@ -69,12 +69,13 @@ namespace L129___Dictionaries
 
             foreach (string word in dict.Keys)
             {
-                string def = dict[word];
-                if (def.Contains(search))
-                {
-                    // Match
-                    Console.WriteLine($"{word}: {def}");
-                }
+                dict[word] = "42";
+                //string def = dict[word];
+                //if (def.Contains(search))
+                //{
+                //    // Match
+                //    Console.WriteLine($"{word}: {def}");
+                //}
             }
 
             Console.ReadKey();
