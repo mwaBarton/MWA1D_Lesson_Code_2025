@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L129 - Dictionaries", "L129
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L131 - List of Structures", "L131 - List of Structures\L131 - List of Structures.csproj", "{FEDAEF7C-49B0-4EC2-8777-7042C2C60E54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L132 - Binary Files", "L132 - Binary Files\L132 - Binary Files.csproj", "{569DA545-F62C-489F-8C00-723928A06AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FEDAEF7C-49B0-4EC2-8777-7042C2C60E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEDAEF7C-49B0-4EC2-8777-7042C2C60E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEDAEF7C-49B0-4EC2-8777-7042C2C60E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569DA545-F62C-489F-8C00-723928A06AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569DA545-F62C-489F-8C00-723928A06AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569DA545-F62C-489F-8C00-723928A06AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569DA545-F62C-489F-8C00-723928A06AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
