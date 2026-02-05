@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L132 - Binary Files", "L132
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L133 - Exceptions", "L133 - Exceptions\L133 - Exceptions.csproj", "{65AC3C2A-7F96-4250-8DA9-1783E95CF5F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L149 - Classes and Objects", "L149 - Classes and Objects\L149 - Classes and Objects.csproj", "{280EC9F2-D3F7-4590-8E04-CADF6E66D8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{65AC3C2A-7F96-4250-8DA9-1783E95CF5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65AC3C2A-7F96-4250-8DA9-1783E95CF5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65AC3C2A-7F96-4250-8DA9-1783E95CF5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280EC9F2-D3F7-4590-8E04-CADF6E66D8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280EC9F2-D3F7-4590-8E04-CADF6E66D8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280EC9F2-D3F7-4590-8E04-CADF6E66D8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280EC9F2-D3F7-4590-8E04-CADF6E66D8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
