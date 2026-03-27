@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L155 - Inheritance", "L155 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L157 - Subtype Polymorphism", "L157 - Subtype Polymorphism\L157 - Subtype Polymorphism.csproj", "{F672D1A3-21CF-4B39-B423-244DFE4D7C89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L164 - Interfaces", "L164 - Interfaces\L164 - Interfaces.csproj", "{01919C5D-146C-421A-A25A-2DD158F0D5DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{F672D1A3-21CF-4B39-B423-244DFE4D7C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F672D1A3-21CF-4B39-B423-244DFE4D7C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F672D1A3-21CF-4B39-B423-244DFE4D7C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01919C5D-146C-421A-A25A-2DD158F0D5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01919C5D-146C-421A-A25A-2DD158F0D5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01919C5D-146C-421A-A25A-2DD158F0D5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01919C5D-146C-421A-A25A-2DD158F0D5DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
